@@ -3,13 +3,20 @@
     "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
     "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
     "sites": [
-        {
+    {
     "key": "Nostr",
     "name": "🐬Nostr推荐 海豚影视交流群 TG：@hshsjk9",
     "type": 3,
     "api": "csp_Nostr",
     "homePage": "https://www.252035.xyz/xs/tvbox/nostr.html"
-  },
+   },
+     {
+        "key":"WB",
+        "name":"🐬歪比巴卜影视",
+        "type":3,
+        "api":"csp_wbbb",
+        "homePage":"https://fgblh.github.io/uhuj.github.io/歪比巴卜.html"
+      },
       {
       "key": "非凡",
       "name": "🐬非凡影视",
@@ -257,7 +264,7 @@
         "海外动漫"
          ]
          },  
-          {
+      {
         "key":"52SP",
         "name":"🐬52体育",
         "type":3,
