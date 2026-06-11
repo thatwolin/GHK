@@ -763,12 +763,6 @@
             "url": "http://82.156.243.185:33389/fwc.m3u"
         },
 	    {
-            "name": "🐬atryffad源 有🔞",
-            "type": 0,
-            "ua": "okhttp",
-            "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/atryffad.txt"
-        },
-	    {
             "name": "🐬国际TV 有🔞",
             "type": 0,
             "ua": "okhttp",
