@@ -1050,6 +1050,12 @@
             "ua": "okhttp/5.3.2",
             "url": "https://wget.la/https://raw.githubusercontent.com/vinkerq/iptv-api/refs/heads/master/iptv.txt"
         },
+		{
+            "name": "🐬juli",
+            "type": 0,
+            "ua": "okhttp/5.3.2",
+            "url": "https://files.catbox.moe/h3mb5a.txt"
+        },	
 	    {
             "name": "🐬小新TV",
             "type": 0,
