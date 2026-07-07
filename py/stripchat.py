@@ -78,13 +78,13 @@ class Spider(Spider):
         info = rsp['cam']
         user = rsp['user']['user']
         id = str(user['id'])
-        vod = [{
+        vod = {
             "vod_id": id,
             "vod_name": str(info['topic']).strip(), 
             "vod_pic": str(user['avatarUrl']),
-            "vod_director": f"{flag}{username}{isLive}",
-            "vod_remarks": remark,
-            'vod_play_from': 'StripChat线路',
+            "vod_director": username,
+            "vod_area": str(user['country']),
+            'vod_play_from': '直播线路',
             'vod_play_url': f"{id}${id}"
         }
         result = {
